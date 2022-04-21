@@ -26,9 +26,7 @@ You can click the Preview link to take a look at your changes.
 <div> 
   <a href = "mailto:marcogd022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/marco-antonio-alonsogd" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <!---
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
-  --->
+  <a href="https://marcogd0.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
 </div>
 
 
