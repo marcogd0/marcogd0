@@ -9,7 +9,5 @@ marcogd0/marcogd0 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div>
-  ![Snake animation](https://github.com/marcogd0/marcogd0/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/marcogd0/marcogd0/blob/output/github-contribution-grid-snake.svg)
   
